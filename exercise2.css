@@ -1,0 +1,58 @@
+.lav02 {
+	    background-image: url("images/linhanh26.png");
+		background-attachment: fixed;
+		height: 850px;
+		margin: 0px auto;
+		color: white;
+		}
+	nav {
+	    padding-bottom: 40px;
+		padding-top: 50px;
+		text-align: right;
+		margin: 0px auto;
+		width: 80%;
+		}
+	nav > a {
+		text-decoration: none;
+		font-size: 150%;
+		color: white;
+		padding: 15px;
+		}
+	.lav06 {
+		padding-bottom: 50px;
+		}
+	.lav05 {
+	    text-align: center;
+		font-size: 150%;
+		}
+	.lav05 > a {
+	    color: #0af570;
+		text-decoration: none;
+		border: 2px solid #0af570;
+		border-radius: 60px;
+		padding: 10px;
+		}
+	.lav07 {
+		display: inline-block;
+		width: 30%;
+		border-right: 1px solid #0af570;
+		}
+	.lav07:nth-child(3) {
+	    border-right: none;
+		}
+	.lav07 > i.fas {
+	    color: #0af570;
+		font-size: 50px;
+		}
+	.lav08 {
+		width: 80%;
+		margin: 0px auto;
+		}
+	.lav08 > .lav05	{
+		padding-top: 70px;
+		width: 49%;
+		display: inline-block;
+		}
+	img {
+	    border-radius: 75px;
+		}

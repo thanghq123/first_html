@@ -1,0 +1,44 @@
+caption{font-size: 300%;}
+h1 {
+color:red;
+text-align: center;
+font-size: 300%;
+}
+table {
+ width: 100%;
+}
+td {text-align: center;}
+table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+th,td{padding: 20px;}
+#linhanh {
+ width="50";
+ height="150";
+ }
+#lav tr:nth-child(even) {background-color: white;}
+#lav tr:nth-child(odd) {background-color: white;}
+#lav th {
+ background-color: green;
+ font-size:150%;
+}
+.lav03 {
+	margin: 0px auto;
+	display: inline-block;
+	width: 49%;
+}
+.lav03 > .lav04 {
+	text-align: center;
+	margin: 0px auto;
+}
+.lavv {
+	margin: 0px auto;
+	width: 80%;
+}
+img {
+	height: 100%;
+	width: 100%;
+}
+body {background-color: pink;}
+h4 {text-align: center}
